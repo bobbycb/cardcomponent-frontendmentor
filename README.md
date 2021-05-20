@@ -29,7 +29,7 @@ Users should be able to:
 ![Mobile version](/screenshots/mobile.png)
 ### Links
 
-- Solution URL: [www.frontendmentor.io/solutions/accordionchallenge-html5-with-css-and-js](https://www.frontendmentor.io/solutions/accordionchallenge-html5-with-css-and-js-f8o5l9LPE)
+- Solution URL: [www.frontendmentor.io/solutions/stats-preview-card-component-html-css-d8mab9QUp](https://www.frontendmentor.io/solutions/stats-preview-card-component-html-css-d8mab9QUp)
 - Live Site URL: [bobbycb-fem-statsprevcardcomp.netlify.app](https://bobbycb-fem-statsprevcardcomp.netlify.app)
 
 ## My process
